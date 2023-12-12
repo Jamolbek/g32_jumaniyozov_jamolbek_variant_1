@@ -9,6 +9,8 @@ public class TalabaApp {
 
     public static void main(String[] args){
 
+//        https://github.com/Jamolbek/g32_jumaniyozov_jamolbek_variant_1.git
+
         try {
             TelegramBotsApi telegramBotsApi = new TelegramBotsApi(DefaultBotSession.class);
             telegramBotsApi.registerBot(BotService.getInstance());
