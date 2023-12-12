@@ -1,0 +1,58 @@
+[
+  {
+    "id": 100,
+    "name": "Rembrandt",
+    "surname": "Joan Miro",
+    "birthDate": "Jan 17, 1984, 3:02:44 PM",
+    "groupType": "FIRST_SMENA"
+  },
+  {
+    "id": 101,
+    "name": "Cezanne",
+    "surname": "Michelangelo",
+    "birthDate": "Jan 19, 2001, 4:06:03 PM",
+    "groupType": "FIRST_SMENA"
+  },
+  {
+    "id": 102,
+    "name": "Da Vinci",
+    "surname": "Kahlo",
+    "birthDate": "Aug 1, 1982, 12:36:25 PM",
+    "groupType": "FIRST_SMENA"
+  },
+  {
+    "id": 103,
+    "name": "Picasso",
+    "surname": "Winslow Homer",
+    "birthDate": "Jan 1, 1983, 6:02:38 PM",
+    "groupType": "FIRST_SMENA"
+  },
+  {
+    "id": 104,
+    "name": "Edward Hopper",
+    "surname": "Diego Rivera",
+    "birthDate": "May 26, 1992, 8:48:36 PM",
+    "groupType": "FIRST_SMENA"
+  },
+  {
+    "id": 105,
+    "name": "Donatello",
+    "surname": "Chagall",
+    "birthDate": "Jul 18, 1993, 12:48:15 AM",
+    "groupType": "FIRST_SMENA"
+  },
+  {
+    "id": 107,
+    "name": "Magritte",
+    "surname": "Paul Klee",
+    "birthDate": "Dec 29, 2001, 12:50:14 PM",
+    "groupType": "FIRST_SMENA"
+  },
+  {
+    "id": 109,
+    "name": "Pollock",
+    "surname": "Vettriano",
+    "birthDate": "Jul 27, 1961, 5:43:44 AM",
+    "groupType": "FIRST_SMENA"
+  }
+]
